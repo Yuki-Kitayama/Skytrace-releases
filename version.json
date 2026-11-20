@@ -1,0 +1,15 @@
+{
+    "schema":  1,
+    "version":  "0.1.0",
+    "protocol":  6,
+    "published":  "2026-11-20T03:37:09Z",
+    "notes_url":  "https://github.com/Yuki-Kitayama/Skytrace-releases",
+    "assets":  [
+                   {
+                       "url":  "https://raw.githubusercontent.com/Yuki-Kitayama/Skytrace-releases/main/files/Skytrace-0.1.0-win64.zip",
+                       "id":  "win64",
+                       "bytes":  57547166,
+                       "sha256":  "81b192be75b73baabbebfa61bc1bdc882e53ecdc705b293b09b5f88f591fbda4"
+                   }
+               ]
+}
